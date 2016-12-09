@@ -8,5 +8,6 @@ int main() {
     cout<< "1:" << str<<endl;
     // add by master
     // dev version add
+    cout << "2:" << std << endl;
     return 0;
 }
