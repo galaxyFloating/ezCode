@@ -9,5 +9,6 @@ int main() {
     // add by master
     // dev version add
     cout << "2:" << std << endl;
+    cout << "3:" << std << endl;
     return 0;
 }
