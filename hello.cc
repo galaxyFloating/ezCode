@@ -10,5 +10,6 @@ int main() {
     // dev version add
     cout << "2:" << std << endl;
     cout << "3:" << std << endl;
+    cout << "4:" << std << endl;
     return 0;
 }
